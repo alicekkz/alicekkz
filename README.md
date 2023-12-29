@@ -14,6 +14,7 @@
 <img align="center" alt="Figma" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>          
 <img align="center" alt="Canva" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>          
 <img align="center" alt="Photoshop" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+<img align="right" width="200px" height="200px" src="https://github.com/alicekkz/profile_conf/blob/main/assert/to_readme/ezgif.com-animated-gif-maker.gif">
 </div>
 
 ##
