@@ -1,10 +1,6 @@
-## Olá, eu sou a Alice.
+## Olá mundo! Seja muito bem vindo(a)
 
-- 📖 Sou estudante de Design Digital na FIAP
-- 🙋‍♀️ Pronome: Ela/Dela
-- 🐺 Tenho dois filhos pets
-- 💻 focada em Front-End e UX/UI
-- 📫 Contato: kakazu.haru@gmail.com
+Sou estudante de Design Digital na FIAP, apaixonada por tecnologia e tudo que envolva arte! 💖
 
 <div style="display: inline_block"><br>
 
