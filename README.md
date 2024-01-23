@@ -10,7 +10,7 @@ Sou estudante de Design Digital na FIAP, apaixonada por tecnologia e tudo que en
 <img align="center" alt="Figma" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>          
 <img align="center" alt="Canva" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>          
 <img align="center" alt="Photoshop" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-<img align="right" width="200px" height="200px" src="https://github.com/alicekkz/Curriculo/assets/153770766/6148d9e5-05e0-402a-91e2-eca774e3094a">
+<img align="right" width="200px" height="200px" src="https://github.com/alicekkz/Portfolio/assets/153770766/d10b1565-9d45-40ca-8b7d-3a0d27177182">
 </div>
 
 ##
