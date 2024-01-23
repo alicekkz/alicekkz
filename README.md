@@ -1,6 +1,7 @@
 ## Hello World!
 
-Sou estudante de Design Digital na FIAP, apaixonada por tecnologia e tudo que envolva arte! 💖
+👩‍💻 Design Digital Student
+👾 Front-End Desenvolver
 
 <div style="display: inline_block"><br>
 
