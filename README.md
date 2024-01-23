@@ -1,4 +1,4 @@
-## Olá mundo! Seja muito bem vindo(a)
+## Hello World
 
 Sou estudante de Design Digital na FIAP, apaixonada por tecnologia e tudo que envolva arte! 💖
 
