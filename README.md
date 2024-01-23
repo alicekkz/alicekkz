@@ -1,6 +1,6 @@
 ## Hello World!
 
-👩‍💻 Design Digital Student
+👩‍💻 Design Digital Student<br>
 👾 Front-End Desenvolver
 
 <div style="display: inline_block"><br>
