@@ -1,7 +1,7 @@
 ## Hello World!
 
 👩‍💻 Design Digital Student<br>
-👾 Front-End Desenvolver
+👾 Front-End Developer
 
 <div style="display: inline_block"><br>
 
