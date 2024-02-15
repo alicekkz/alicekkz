@@ -8,7 +8,7 @@
 <img align="center" alt="html" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="css" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="JavaScript" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>     
-<img align="center" alt="GitVscode" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" alt="WordPress" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <img align="center" alt="Figma" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>          
 <img align="center" alt="Illustrator" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="center" alt="Photoshop" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
