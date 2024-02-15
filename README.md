@@ -12,7 +12,6 @@
 <img align="center" alt="Figma" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>          
 <img align="center" alt="Illustrator" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
 <img align="center" alt="Photoshop" height="30" width=40 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="right" width="200px" height="200px" src="https://github.com/alicekkz/Portfolio/assets/153770766/d10b1565-9d45-40ca-8b7d-3a0d27177182">
 
 </div>
 
